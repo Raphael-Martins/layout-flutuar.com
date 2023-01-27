@@ -1,0 +1,89 @@
+body {
+  margin: 0px auto;
+  width: 1024px;
+  font-family: "Open Sans", sans-serif;
+  height: 100vh;
+  padding-top: 64px;
+  
+}
+p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+}
+main {
+  text-align: center;
+  padding: 64 199 240px;
+}
+#titulo {
+  font-family: "Dosis", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  padding-top: 32px;
+  padding-bottom: 21px;
+  border: 0px;
+  margin: 0px;
+}
+#segund {
+  padding-bottom: 35px;
+  border: 0px;
+  margin: 0px;
+}
+#terc {
+  border: 0px;
+  margin: 0px;
+}
+#rosa {
+  color: #ee24ff;
+  font-weight: 700;
+}
+#preto {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+  color: #3f3d56;
+}
+#flut {
+  font-style: bold;
+  font-weight: 700;
+}
+footer {
+  border-top: 1px solid #eceff2;
+  margin: 64px auto 0px;
+  width: 391px;
+  height: 176px;
+}
+footer img {
+  margin: 0px;
+  padding: 0px;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  gap: 42px;
+  padding-top: 16px;
+}
+
+.links a {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 15px;
+  color: #3f3d56;
+}
+#wave {
+  position: absolute;
+  width: 100%;
+  height: 104px;
+  bottom: 0px;
+  left: 0px;
+  top: 686px;
+}
+
+/*nao consegui fazer tudo aparecer na minha tela, retirando a barra de roalgem*/
